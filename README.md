@@ -31,7 +31,6 @@ I love building clean, modern web applications and constantly improving my skill
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RabiiHafit&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabiiHafit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
