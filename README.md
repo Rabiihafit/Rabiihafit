@@ -10,7 +10,7 @@ I love building clean, modern web applications and constantly improving my skill
 
 - 💡 Interested in **JavaScript**, **PHP**, and **modern web frameworks**
 - 🧠 Currently learning **React**, **Node.js**
-- 🚀 Working on personal and academic projects
+- 🚀 Working on personal and academic projects.
 
 ---
 
