@@ -28,6 +28,12 @@ I love building clean, modern web applications and constantly improving my skill
 
 ---
 
+### Certification
+
+<img src="[https://raw.githubusercontent.com/USERNAME/REPO/main/certificate.png](https://www.coursera.org/account/accomplishments/verify/0A7X7QFFS3SG)" width="500" />
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
