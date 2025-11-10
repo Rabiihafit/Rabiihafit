@@ -28,9 +28,9 @@ I love building clean, modern web applications and constantly improving my skill
 
 ---
 
-### Certification
+## 🎓 Certifications
 
-<img src="[https://raw.githubusercontent.com/Rabiihafit/Rabiihafit/main/Screenshot1.png](https://www.coursera.org/account/accomplishments/verify/0A7X7QFFS3SG" width="500" />
+[![IBM Data Analytics](https://img.shields.io/badge/IBM-Introduction%20of%20Data%20Analytics-blue)]([https://www.coursera.org/account/accomplishments/verify/0A7X7QFFS3SG])
 
 ---
 
