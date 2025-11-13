@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Web Developer** currently studying for a **BTS in 
 I love building clean, modern web applications and constantly improving my skills through real projects.
 
 - 💡 Interested in **JavaScript**, **PHP**, and **modern web frameworks**
-- 🧠 Currently learning **Data Analtics**, **Quantum Finance**
+- 🧠 Currently learning **Data Analytics**, **Quantum Finance**
 - 🚀 Working on personal and academic projects
 
 ---
