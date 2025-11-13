@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** currently studying for a **BTS in Web Development**.  
+I'm a passionate **Full Stack Web Developer** currently studying **in Web Development**.  
 I love building clean, modern web applications and constantly improving my skills through real projects.
 
 - 💡 Interested in **JavaScript**, **PHP**, and **modern web frameworks**
