@@ -30,7 +30,7 @@ I love building clean, modern web applications and constantly improving my skill
 
 ## 🎓 Certifications
 
-[![IBM Data Analytics](https://img.shields.io/badge/IBM-Introduction%20of%20Data%20Analytics-blue)]([https://www.coursera.org/account/accomplishments/verify/0A7X7QFFS3SG])
+[![IBM Data Analytics](https://img.shields.io/badge/IBM-Introduction%20of%20Data%20Analytics-blue)](https://www.coursera.org/account/accomplishments/verify/0A7X7QFFS3SG)
 
 ---
 
