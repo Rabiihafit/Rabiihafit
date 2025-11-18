@@ -5,12 +5,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** currently studying **in Web Development**.  
+I'm a passionate **Full Stack Web Developer** and **ICT Student** currently studying **in Web Development**.  
 I love building clean, modern web applications and constantly improving my skills through real projects.
 
-- 💡 Interested in **JavaScript**, **PHP**, and **modern web frameworks**
 - 🧠 Currently learning **Data Analytics**, **Quantum Finance**
-- 🚀 Working on personal and academic projects
+- 🚀 Working on personal (TradeLevo) and academic projects
 
 ---
 
@@ -31,6 +30,7 @@ I love building clean, modern web applications and constantly improving my skill
 ## 🎓 Certifications
 
 [![IBM Data Analytics](https://img.shields.io/badge/IBM-Introduction%20of%20Data%20Analytics-blue)](https://www.coursera.org/account/accomplishments/verify/0A7X7QFFS3SG)
+[![IBM Data Analytics](https://img.shields.io/badge/IBM-Excel%20Basics%20for%20Data%20Analysis-blue)](https://www.coursera.org/account/accomplishments/verify/AO6LSQSYOD5B)
 
 ---
 
