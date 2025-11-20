@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Web Developer** and **ICT Student** currently stud
 I love building clean, modern web applications and constantly improving my skills through real projects.
 
 - 🧠 Currently learning **Data Analytics**, **Quantum Finance**
-- 🚀 Working on personal (TradeLevo) and academic projects
+- 🚀 Working on personal **(TradeLevo)** and academic projects
 
 ---
 
@@ -25,6 +25,13 @@ I love building clean, modern web applications and constantly improving my skill
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
 
+---
+
+## 🚀 Projects
+
+Here are some of my highlighted works:
+
+- **Project Bureau d´etude BTS** — [Live](https://bts-bde.vercel.app/) 
 ---
 
 ## 🎓 Certifications
