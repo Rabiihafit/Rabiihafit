@@ -32,8 +32,8 @@ I love building clean, modern web applications and constantly improving my skill
 Here are some of my highlighted works:
 
 - **Project "Bureau d´etude BTS"** — [Live](https://bts-bde.vercel.app/) | **(In development)**
-- **Project TradeLevo (Journaling for tarders** - **In development**
-- **Project of Coq sportif (Sample management)** - 
+- **Project TradeLevo (Journaling for tarders)** - **In development**
+- **Project of Coq sportif (Sample management)** - [Repositorie](https://github.com/Rabiihafit/Projet-Stage-Coq-Sportif)
 ---
 
 ## 🎓 Certifications
