@@ -40,6 +40,8 @@ Here are some of my highlighted works:
 
 [![IBM Data Analytics](https://img.shields.io/badge/IBM-Introduction%20of%20Data%20Analytics-blue)](https://www.coursera.org/account/accomplishments/verify/0A7X7QFFS3SG)
 [![IBM Data Analytics](https://img.shields.io/badge/IBM-Excel%20Basics%20for%20Data%20Analysis-blue)](https://www.coursera.org/account/accomplishments/verify/AO6LSQSYOD5B)
+[![IBM Data Analytics](https://img.shields.io/badge/IBM-Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos-blue)](https://www.coursera.org/account/accomplishments/verify/3SR9RQG3QOES)
+
 
 ---
 
